@@ -1,1 +1,1 @@
-# [Personal-Website](/https://raj-gosain.netlify.app/)
+# [Personal-Website](https://raj-gosain.netlify.app)
